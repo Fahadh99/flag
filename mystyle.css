@@ -1,0 +1,9 @@
+tr > * + * {
+    padding-left: 5em;
+  }
+
+  /*table{
+      padding-left:4em;
+    column-gap:30px;
+    margin: 200px 250px 200px;
+}*/
